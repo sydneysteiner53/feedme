@@ -1,0 +1,98 @@
+@import url(http://fonts.googleapis.com/css?family=Shadows+Into+Light+Two);
+
+h1 {
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Shadows Into Light Two', cursive;
+}
+
+h2 {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Shadows Into Light Two', cursive;
+}
+
+h3 {color: white;
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Shadows Into Light Two', cursive;
+}
+
+body {
+    color: white;
+    font-size: 24px;
+
+    text-shadow: 6px 6px 11px rgba(0, 0, 0, 1);
+    text-align: center;
+    background: url("http://i.giphy.com/HHeEWPYMVwhji.gif") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    background-size: cover;
+   /* background-size: 100%;
+    background-repeat: repeat-y;
+*/}
+
+h3 {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Shadows Into Light Two', cursive;
+}
+
+h4 {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Shadows Into Light Two', cursive;
+}
+
+h5 {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Shadows Into Light Two', cursive;
+}
+
+h6 {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Shadows Into Light Two', cursive;
+}
+
+a {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    text-align: center;
+    font-family: 'Shadows Into Light Two', cursive;
+}
+
+.form-group{
+    font-family: 'Shadows Into Light Two', cursive;
+    font-size: 17px;
+}
+div{
+    width:20%;
+    margin:auto;
+}
+.back img{
+    cursor: pointer;
+}
+
+.thick{
+    width:26%;
+    margin:auto;
+
+}
+.thick hr{
+    height:5px;
+    background: #ffffff;
+}
+
+.pic{
+    -webkit-box-shadow: 0px 0px 38px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 38px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 38px 0px rgba(0,0,0,0.75);
+}
